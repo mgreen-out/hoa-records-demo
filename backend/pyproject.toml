@@ -1,0 +1,6 @@
+[project]
+name = "hoa-records-demo-backend"
+version = "1.0.0"
+description = "Datasette backend serving the fake demo database"
+requires-python = ">=3.11"
+dependencies = ["datasette>=0.64"]
